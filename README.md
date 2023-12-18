@@ -33,8 +33,8 @@ I'm a student majoring in Data Science at University of Waterloo. I love to crea
 - [Biquadris](https://github.com/brandonzhou2002/uw-cs246-biquadris) - This repository is home to Biquadris, an engaging two-player Tetris-style game, which was developed as a key project for my Object-Oriented Programming course. Biquadris elevates the classic Tetris experience with a competitive two-player twist, offering endless hours of entertainment and strategic gameplay. The game features customizable game boards, a variety of challenging levels, and real-time scoring. This project not only showcases my programming and game development skills but also demonstrates my ability to innovate on a classic game concept. Dive into the world of Biquadris and discover the fun of head-to-head Tetris battles!
 
 ## 📫 How to Reach Me
-- LinkedIn: [Brandon Zhou](linkedin.com/in/zihaozhou)
+- LinkedIn: [Brandon Zhou](https://www.linkedin.com/in/zihaozhou/)
 - Personal Website: [Brandon's Personal Website](https://www.student.math.uwaterloo.ca/~z458zhou/)
-- If you want to send a message to me, please visit [my website](https://www.student.math.uwaterloo.ca/~z458zhou/) -> go to Contact Me -> and send me a form!
+- If you want to send a message to me, please visit [my website](https://www.student.math.uwaterloo.ca/~z458zhou/) -> go to Contact section -> and Submit A Form!
 
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonzhou2002&show_icons=true&theme=radical)
