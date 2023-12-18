@@ -33,8 +33,6 @@ I'm a passionate data specialist specializing in data science and data engineein
 ## 📫 How to Reach Me
 - LinkedIn: [Brandon Zhou](linkedin.com/in/zihaozhou)
 - Personal Website: [Brandon's Personal Website](student.math.uwaterloo.ca/~z458zhou/)
-
-## ✨ A Fun Fact
-I am interested in data engineering than machine learning.
+- If you want to send a message to me, please visit [my website](student.math.uwaterloo.ca/~z458zhou/) -> go to Contact Me -> and send me a form!
 
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonzhou2002&show_icons=true&theme=radical)
