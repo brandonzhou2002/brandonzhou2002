@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Brandon 👋
 
 ## 🚀 About Me
 I'm a passionate data specialist specializing in data science and data engineeing. I love to create and innovate, always looking to tackle new and exciting challenges!
