@@ -18,30 +18,23 @@ Here are some ideas to get you started:
 # Hi there, I'm [Your Name] 👋
 
 ## 🚀 About Me
-I'm a passionate [Your Profession] specializing in [Areas of Expertise]. I love to create and innovate, always looking to tackle new and exciting challenges!
+I'm a passionate data specialist specializing in data science and data engineeing. I love to create and innovate, always looking to tackle new and exciting challenges!
 
 ## 🛠 Skills
-- 💻 Programming Languages: [Languages you know, e.g., Python, JavaScript]
-- 🌐 Web Development: [Technologies you use, e.g., HTML, CSS, React]
-- 📱 Mobile Development: [Technologies you use, e.g., Flutter, React Native]
-- 🛢 Database: [Databases you are familiar with, e.g., MySQL, MongoDB]
-- 🎨 Design: [Design tools you use, e.g., Photoshop, Figma]
-- 📊 Data Analysis: [Tools and languages, e.g., R, Python, Tableau]
+- 💻 Programming Languages: Python, C, C++
+- 🛢 Database: MySQL, SQL Server
+- 📊 Data Analysis: R, Python, Power BI
 
-## 🔥 My Projects
-<!-- List of your top projects -->
-- [Project Name 1](GitHub link) - Short description
-- [Project Name 2](GitHub link) - Short description
-- [Project Name 3](GitHub link) - Short description
-<!-- You can add more projects here -->
+## 🔥 My Repos
+- [Data Science Projects](GitHub link) - Short description
+- [Course Notes](GitHub link) - Short description
+- [Biquadris](GitHub link) - Short description
 
 ## 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn](Your LinkedIn URL)
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- Twitter: [@YourTwitterHandle](Your Twitter URL)
-- Blog: [Your Blog](Your Blog URL)
+- LinkedIn: [Brandon Zhou](linkedin.com/in/zihaozhou)
+- Personal Website: [Brandon's Personal Website](student.math.uwaterloo.ca/~z458zhou/)
 
 ## ✨ A Fun Fact
-I [interesting fact or hobby].
+I am interested in data engineering than machine learning.
 
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonzhou2002&show_icons=true&theme=radical)
