@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=brandonzhou2002)
 
 ## 🚀 About Me
-I'm a passionate data specialist specializing in data science and data engineeing. I love to create and innovate, always looking to tackle new and exciting challenges!
+I'm a student majoring in Data Science at University of Waterloo. I love to create and innovate, always looking to tackle new and exciting challenges!
 
 ## 🛠 Skills
 - 💻 Programming Languages: Python, C, C++
@@ -28,8 +28,8 @@ I'm a passionate data specialist specializing in data science and data engineein
 - 📊 Data Analysis: R, Python, Power BI
 
 ## 🔥 My Repos
-- [Data Science Projects](GitHub link) - Short description
-- [Course Notes](GitHub link) - Short description
+- [Data Science Projects](GitHub link) - This repository is a curated collection of my Data Science projects, showcasing my expertise in extracting meaningful insights from complex datasets. Each project within this repo demonstrates a unique aspect of Data Science, ranging from exploratory data analysis, predictive modeling, and data visualization, to more advanced topics like machine learning. The repo serves as a personal portfolio of my data science journey. Dive in to see how I solve problems, inform decisions, and drive innovation.
+- [Course Notes](GitHub link) - This repository contains comprehensive and detailed notes from various courses I've undertaken in Statistics and Computer Science. It serves as a valuable resource for students looking to reinforce their knowledge or catch up. The notes cover a wide range of topics, and are formatted for easy reference and understanding. Whether you're preparing for exams, interviews, or just brushing up on concepts, these notes offer insights and key takeaways from each course.
 - [Biquadris](GitHub link) - Short description
 
 ## 📫 How to Reach Me
