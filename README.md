@@ -34,7 +34,7 @@ I'm a student majoring in Data Science at University of Waterloo. I love to crea
 
 ## 📫 How to Reach Me
 - LinkedIn: [Brandon Zhou](linkedin.com/in/zihaozhou)
-- Personal Website: [Brandon's Personal Website](student.math.uwaterloo.ca/~z458zhou/)
-- If you want to send a message to me, please visit [my website](student.math.uwaterloo.ca/~z458zhou/) -> go to Contact Me -> and send me a form!
+- Personal Website: [Brandon's Personal Website](https://www.student.math.uwaterloo.ca/~z458zhou/)
+- If you want to send a message to me, please visit [my website](https://www.student.math.uwaterloo.ca/~z458zhou/) -> go to Contact Me -> and send me a form!
 
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonzhou2002&show_icons=true&theme=radical)
