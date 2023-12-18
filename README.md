@@ -36,3 +36,5 @@ I'm a passionate data specialist specializing in data science and data engineein
 - If you want to send a message to me, please visit [my website](student.math.uwaterloo.ca/~z458zhou/) -> go to Contact Me -> and send me a form!
 
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonzhou2002&show_icons=true&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=brandonzhou2002)](https://github.com/ryo-ma/github-profile-trophy)
