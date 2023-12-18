@@ -37,4 +37,4 @@ I'm a passionate data specialist specializing in data science and data engineein
 
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonzhou2002&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=brandonzhou2002)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=brandonzhou2002)](https://github.com/brandonzhou2002/github-profile-trophy)
