@@ -23,18 +23,10 @@ Here are some ideas to get you started:
 I'm a student majoring in Computer Science at University of Waterloo. I love to create and innovate, always looking to tackle new and exciting challenges!
 
 ## 🛠 Skills
-- 💻 Programming Languages: Python, C, C++
-- 🛢 Database: MySQL, SQL Server
-- 📊 Data Analysis: R, Python, Power BI
-
-## 🔥 My Repos
-- [Data Science Projects](https://github.com/brandonzhou2002/data-science-project) - This repository is a curated collection of my Data Science projects, showcasing my expertise in extracting meaningful insights from complex datasets. Each project within this repo demonstrates a unique aspect of Data Science, ranging from exploratory data analysis, predictive modeling, and data visualization, to more advanced topics like machine learning. The repo serves as a personal portfolio of my data science journey. Dive in to see how I solve problems, inform decisions, and drive innovation.
-- [Biquadris](https://github.com/brandonzhou2002/uw-cs246-biquadris) - This repository is home to Biquadris, an engaging two-player Tetris-style game, which was developed as a key project for my Object-Oriented Programming course. Biquadris elevates the classic Tetris experience with a competitive two-player twist, offering endless hours of entertainment and strategic gameplay. The game features customizable game boards, a variety of challenging levels, and real-time scoring. This project not only showcases my programming and game development skills but also demonstrates my ability to innovate on a classic game concept. Dive into the world of Biquadris and discover the fun of head-to-head Tetris battles!
+- 💻 Programming Languages: Python, Go, C, C++, Java, Scala, TypeScript 
+- 🛢 Database: MySQL, SQL Server, PostgreSQL
 
 ## 📫 How to Reach Me
 - LinkedIn: [Brandon Zhou](https://www.linkedin.com/in/zihaozhou/)
-- Personal Website: [Brandon's Personal Website](https://brandonzhou2002.github.io)
-- If you want to send a message to me, please visit [my website](https://brandonzhou2002.github.io) -> go to Contact section -> and Submit a Contact Form!
-
-
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonzhou2002&show_icons=true&theme=radical)
+- Personal Website: [Brandon Zhou - Portfolio](https://brandonzhou2002.github.io)
+- If you want to send a message to me, please visit [my personal website above](https://brandonzhou2002.github.io) -> go to `Contact` section -> and Submit a Contact Form!
