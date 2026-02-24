@@ -26,6 +26,10 @@ I'm a student majoring in Computer Science at University of Waterloo. I love to 
 - 💻 Programming Languages: Python, Go, C, C++, Java, Scala, TypeScript 
 - 🛢 Database: MySQL, SQL Server, PostgreSQL
 
+## 📦 Products
+Here are some of the things I’ve built:
+- Lectura: A workspace that converts lecture slide decks into organized, editable notes so you can review and study more efficiently.
+
 ## 📫 How to Reach Me
-- LinkedIn: [Brandon Zhou](https://www.linkedin.com/in/zihaozhou/)
-- Personal Website: [Brandon Zhou - Portfolio](https://bzhou.dev/)
+- [LinkedIn](https://www.linkedin.com/in/zihaozhou/)
+- [Personal Website](https://bzhou.dev/)
