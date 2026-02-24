@@ -28,5 +28,4 @@ I'm a student majoring in Computer Science at University of Waterloo. I love to 
 
 ## 📫 How to Reach Me
 - LinkedIn: [Brandon Zhou](https://www.linkedin.com/in/zihaozhou/)
-- Personal Website: [Brandon Zhou - Portfolio](https://brandonzhou2002.github.io)
-- If you want to send a message to me, please visit [my personal website above](https://brandonzhou2002.github.io) -> go to `Contact` section -> and Submit a Contact Form!
+- Personal Website: [Brandon Zhou - Portfolio](https://bzhou.dev/)
